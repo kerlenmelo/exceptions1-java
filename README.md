@@ -1,18 +1,11 @@
-## Getting Started
+## Exceptions in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This program contains three exception solutions in java, for the same problem, the first one is a very bad solution, the second one is a bad solution and the thrid one is the good solution.
 
-## Folder Structure
+First solution : validation logic in the main program (very bad).
+Second solution : Second solution : the method returns a string (bad).
+Third solution : exception handling (good)
 
-The workspace contains two folders by default, where:
+## Curso Java Completo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+https://www.udemy.com/course/java-curso-completo/
